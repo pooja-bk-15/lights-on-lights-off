@@ -1,0 +1,14 @@
+h1{
+    color: white;
+    font-size: 250%;
+}
+.main{
+    margin: 100px auto 20px auto;
+}
+#background_wallpaper{
+    background-size: cover;
+}
+button{
+    box-shadow: 10px 10px 20px black;
+    margin: 10px;
+}
